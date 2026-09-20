@@ -58,7 +58,7 @@ log = logging.getLogger("radyola")
 # çalışır (özel alan adı bağlanınca GitHub oraya yönlendirir).
 STATIONS_JSON_URLS = [
     "https://radyola.aripd.com/data/stations.json",
-    "https://aripdcem.github.io/radyola/data/stations.json",
+    "https://aripdcom.github.io/radyola/data/stations.json",
 ]
 
 # Ülke adından bayrak emoji'sine eşleme

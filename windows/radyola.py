@@ -61,7 +61,7 @@ logging.basicConfig(level=logging.INFO, format="%(name)s: %(message)s")
 # düşebiliyor; GitHub Pages adresi her koşulda çalışır.
 STATIONS_JSON_URLS = [
     "https://radyola.aripd.com/data/stations.json",
-    "https://aripdcem.github.io/radyola/data/stations.json",
+    "https://aripdcom.github.io/radyola/data/stations.json",
 ]
 
 _COUNTRY_FLAGS = {

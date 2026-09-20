@@ -1,11 +1,11 @@
 # Radyola
 
-[![Android](https://github.com/aripdcem/radyola/actions/workflows/android.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/android.yml)
-[![Web](https://github.com/aripdcem/radyola/actions/workflows/web.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/web.yml)
-[![Linux](https://github.com/aripdcem/radyola/actions/workflows/linux.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/linux.yml)
-[![Windows](https://github.com/aripdcem/radyola/actions/workflows/windows.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/windows.yml)
-[![macOS](https://github.com/aripdcem/radyola/actions/workflows/macos.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/macos.yml)
-[![Yayın denetimi](https://github.com/aripdcem/radyola/actions/workflows/stream-check.yml/badge.svg)](https://github.com/aripdcem/radyola/actions/workflows/stream-check.yml)
+[![Android](https://github.com/aripdcom/radyola/actions/workflows/android.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/android.yml)
+[![Web](https://github.com/aripdcom/radyola/actions/workflows/web.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/web.yml)
+[![Linux](https://github.com/aripdcom/radyola/actions/workflows/linux.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/linux.yml)
+[![Windows](https://github.com/aripdcom/radyola/actions/workflows/windows.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/windows.yml)
+[![macOS](https://github.com/aripdcom/radyola/actions/workflows/macos.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/macos.yml)
+[![Yayın denetimi](https://github.com/aripdcom/radyola/actions/workflows/stream-check.yml/badge.svg)](https://github.com/aripdcom/radyola/actions/workflows/stream-check.yml)
 
 Çoklu platform internet radyo çalar uygulaması.
 
@@ -160,8 +160,8 @@ Kuratörlü listenin yanında ~3.400 istasyonluk **Keşfet** dizininde arama yap
 
 Derlemek istemiyorsanız:
 
-- **Yayınlanan sürümler** → [Releases](https://github.com/aripdcem/radyola/releases)
-- **Her commit'in APK'sı** → [Actions → Android](https://github.com/aripdcem/radyola/actions/workflows/android.yml)
+- **Yayınlanan sürümler** → [Releases](https://github.com/aripdcom/radyola/releases)
+- **Her commit'in APK'sı** → [Actions → Android](https://github.com/aripdcom/radyola/actions/workflows/android.yml)
   → bir koşu seçin → sayfanın altındaki **Artifacts**
 
 ### Derleme
@@ -234,7 +234,7 @@ sağ tık → Aç gerekir).
 2. **Özel alan adı** — DNS `radyola.aripd.com` kaydı GitHub Pages'e yöneldikten
    sonra Settings → Secrets and variables → Actions → Variables:
    `PAGES_CUSTOM_DOMAIN = radyola.aripd.com`.
-   Değişken tanımlı değilken site `https://aripdcem.github.io/radyola/`
+   Değişken tanımlı değilken site `https://aripdcom.github.io/radyola/`
    adresinde yayınlanır — DNS taşınmadan önce yayın kesilmesin diye.
 3. **APK imzalama** (isteğe bağlı) — Settings → Secrets:
    `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`,

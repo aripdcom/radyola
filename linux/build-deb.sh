@@ -75,7 +75,7 @@ Description: İnternet Radyo Çalar
  radyo çalar uygulamasıdır. System tray üzerinden çalışır,
  ortak JSON kaynağından dinamik istasyon listesi çeker.
  MPRIS D-Bus entegrasyonu ile media tuşlarını destekler.
-Homepage: https://github.com/aripdcem/radyola
+Homepage: https://github.com/aripdcom/radyola
 EOF
 
 # Post-install script (isteğe bağlı — masaüstü veritabanını günceller)

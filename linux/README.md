@@ -22,7 +22,7 @@
 ## Hazır Paket
 
 Derlemek istemiyorsanız: her değişiklikte CI paketi derleyip Ubuntu üzerinde
-kurulumunu dener — [Actions → Linux](https://github.com/aripdcem/radyola/actions/workflows/linux.yml)
+kurulumunu dener — [Actions → Linux](https://github.com/aripdcom/radyola/actions/workflows/linux.yml)
 → bir koşu seçin → **Artifacts** bölümünden `.deb` dosyasını indirin.
 
 ## Özellikler

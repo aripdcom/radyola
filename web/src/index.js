@@ -25,7 +25,7 @@ import {
 const DATA_HOSTS = [
   "./data",
   "https://radyola.aripd.com/data",
-  "https://aripdcem.github.io/radyola/data",
+  "https://aripdcom.github.io/radyola/data",
 ];
 
 const SOURCES = {
