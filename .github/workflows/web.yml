@@ -103,7 +103,7 @@ jobs:
 
     steps:
       - name: Pages'i yapılandır (kapalıysa aç)
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           # Site depoda hiç açılmamışsa ilk koşuda "GitHub Actions" kaynağıyla
           # açılır; Settings → Pages'te elle bir şey seçmek gerekmez.
