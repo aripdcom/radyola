@@ -10,7 +10,7 @@ import Foundation
 /// çalışır (özel alan adı bağlanınca GitHub oraya yönlendirir).
 let stationsJSONURLs = [
     "https://radyola.aripd.com/data/stations.json",
-    "https://aripdcem.github.io/radyola/data/stations.json",
+    "https://aripdcom.github.io/radyola/data/stations.json",
 ]
 
 /// JSON decode için yardımcı struct

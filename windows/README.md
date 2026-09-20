@@ -5,9 +5,9 @@
 ## Hazır EXE
 
 Derlemek istemiyorsanız: her değişiklikte CI EXE'yi derler —
-[Actions → Windows](https://github.com/aripdcem/radyola/actions/workflows/windows.yml)
+[Actions → Windows](https://github.com/aripdcom/radyola/actions/workflows/windows.yml)
 → bir koşu seçin → **Artifacts**. Sürüm etiketlerinde EXE,
-[Releases](https://github.com/aripdcem/radyola/releases) sayfasına da eklenir.
+[Releases](https://github.com/aripdcom/radyola/releases) sayfasına da eklenir.
 
 ## Özellikler
 

@@ -136,7 +136,7 @@ jobs:
             echo "| \`radyola-${v}-windows.exe\` | Windows 10+ | Çift tıklayın; SmartScreen uyarısında **Ek bilgi → Yine de çalıştır** |"
             echo "| \`radyola-${v}-macos.zip\` | macOS 14+ | Zip'i açıp Applications'a taşıyın; ilk açılışta **sağ tık → Aç** |"
             echo
-            echo "🌐 Web sürümü kurulum gerektirmez: https://aripdcem.github.io/radyola/"
+            echo "🌐 Web sürümü kurulum gerektirmez: https://aripdcom.github.io/radyola/"
             echo
             echo "Her paketin yanında \`.sha256\` özeti var; APK'nınki \`SHA256SUMS.txt\` içinde."
             echo "Paketler ayrı işlerce derlenir — hepsi birkaç dakika içinde tamamlanır."

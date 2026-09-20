@@ -18,9 +18,9 @@
 ## Hazır Uygulama
 
 Her değişiklikte CI uygulamayı derler —
-[Actions → macOS](https://github.com/aripdcem/radyola/actions/workflows/macos.yml)
+[Actions → macOS](https://github.com/aripdcom/radyola/actions/workflows/macos.yml)
 → bir koşu seçin → **Artifacts** (`Radyola-macos.zip`). Sürüm etiketlerinde
-[Releases](https://github.com/aripdcem/radyola/releases) sayfasına da eklenir.
+[Releases](https://github.com/aripdcom/radyola/releases) sayfasına da eklenir.
 
 > Paket **imzasızdır** (Apple geliştirici sertifikası gerektirmemek için):
 > zip'i açıp `Radyola.app`'i Applications'a taşıyın; ilk açılışta Gatekeeper

@@ -35,7 +35,7 @@ enum class StationSource(val urls: List<String>, internal val cacheName: String)
  */
 private fun dataUrls(file: String) = listOf(
     "https://radyola.aripd.com/data/$file",
-    "https://aripdcem.github.io/radyola/data/$file"
+    "https://aripdcom.github.io/radyola/data/$file"
 )
 
 /** Ekranda gösterilen liste. */
